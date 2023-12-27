@@ -3,9 +3,8 @@
 
 ## Grupo
 
-Sara da Silva Azevedo - up202006902
-
-Linda Inês Rodrigues - up202005545 
+- Sara da Silva Azevedo
+- Linda Inês Rodrigues (up202005545@edu.fc.up.pt)
 
 ## Tarefas realizadas
 - Todas as tarefas foram realizadas excepto "use".
